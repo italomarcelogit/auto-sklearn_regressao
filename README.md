@@ -1,5 +1,5 @@
 <h1 align="center">Regressão com auto-sklearn</h1>
-<p align="center">🚀 Exemplo notebook traz uma noção básica de como utilizar a API keras do tensorflow para prever valores</p>
+<p align="center">🚀 Exemplo de notebook Colab: traz uma noção básica de como utilizar o auto-sklearn, com algorítimos de regressão, com o objetivo de prever valores.</p>
 
 ### 🎲 O que você terá:
 
